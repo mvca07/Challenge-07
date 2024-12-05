@@ -3,7 +3,7 @@
   # Professional Readme Generator.
   
   ## Description
-  This application generates a readme file, using the input of the user.
+  This application generates a readme file, using the input of the user. throught node ,javascript and the inquirer package.
   
   ## Table of Contents
   * [Languages & Dependencies](#languagesanddependencies)
@@ -14,16 +14,16 @@
   
   
   ## Languages & Dependencies
-  To run this  application, installing node and the inquirer package is required.
+  This application needs node and the inquirer package.
   
   ## How to Use This Application:
-  The user should use the application following the guidelines as well as the terms and coditions.
+  the user should use the application following the guidelines as well as the terms and conditions.
   
   ## Contributors
-  Mateo
+  Mateo Velasquez
   
   ## Testing
-  Using the command node index.js in the terminal  will make the application run.
+  Using the command node index.js in the terminal will make the application run.
   
   ## Questions
   Please send your questions [here](mailto:mvca07@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/mvca07](https://github.com/mvca07).
